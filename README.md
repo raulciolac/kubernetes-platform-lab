@@ -12,7 +12,7 @@ The platform follows modern DevOps and Platform Engineering practices:
 - Application packaging with Helm
 - Monitoring and observability using Prometheus and Grafana
 
-The goal of this lab is to simulate how enterprise teams provision, deploy, monitor, and operate cloud-native workloads.
+The goal of this lab is to simulate how enterprise to provision, deploy, monitor, and operate cloud-native workloads.
 
 ---
 
