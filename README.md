@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a production-inspired Kubernetes platform built on Azure AKS and AWS EKS.
+This project demonstrates Kubernetes platform built on Azure AKS and AWS EKS.
 
 The platform follows modern DevOps and Platform Engineering practices:
 
