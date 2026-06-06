@@ -85,7 +85,28 @@ Developer → GitHub → ArgoCD → Kubernetes (AKS/EKS) → Prometheus → Graf
 - Disaster Recovery Testing
 
 ---
+## Current Progress
 
+- [x] Repository structure
+- [x] AKS Terraform configuration
+- [x] EKS Terraform structure
+- [x] ArgoCD GitOps configuration
+- [x] Helm chart structure
+- [x] Monitoring structure
+- [ ] AKS deployment
+- [ ] EKS deployment
+- [ ] Prometheus deployment
+- [ ] Grafana dashboards
+
+## Repository Structure
+
+```text
+terraform/
+argocd/
+helm/
+monitoring/
+docs/
+```
 ## Author
 
 Raul Ciolac - DevOps & Infrastructure Automation Engineer
