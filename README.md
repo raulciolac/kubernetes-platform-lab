@@ -72,7 +72,6 @@ Developer → GitHub → ArgoCD → Kubernetes (AKS/EKS) → Prometheus → Graf
 - Package applications using Helm
 - Deploy workloads to AKS and EKS
 - Monitor clusters using Prometheus and Grafana
-- Apply enterprise platform engineering practices
 
 ---
 
